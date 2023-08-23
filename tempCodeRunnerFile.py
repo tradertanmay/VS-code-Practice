@@ -1,0 +1,1 @@
+print(np.abs(5))
